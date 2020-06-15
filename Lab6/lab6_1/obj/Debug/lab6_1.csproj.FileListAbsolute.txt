@@ -1,0 +1,14 @@
+C:\Users\Camilek\source\repos\lab6_1\lab6_1\bin\Debug\lab6_1.exe.config
+C:\Users\Camilek\source\repos\lab6_1\lab6_1\bin\Debug\lab6_1.exe
+C:\Users\Camilek\source\repos\lab6_1\lab6_1\bin\Debug\lab6_1.pdb
+C:\Users\Camilek\source\repos\lab6_1\lab6_1\obj\Debug\lab6_1.csprojAssemblyReference.cache
+C:\Users\Camilek\source\repos\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.CoreCompileInputs.cache
+C:\Users\Camilek\source\repos\lab6_1\lab6_1\obj\Debug\lab6_1.exe
+C:\Users\Camilek\source\repos\lab6_1\lab6_1\obj\Debug\lab6_1.pdb
+C:\Users\Mati\Desktop\krepo\PIPO2-master\lab6_1\lab6_1\bin\Debug\lab6_1.exe.config
+C:\Users\Mati\Desktop\krepo\PIPO2-master\lab6_1\lab6_1\bin\Debug\lab6_1.exe
+C:\Users\Mati\Desktop\krepo\PIPO2-master\lab6_1\lab6_1\bin\Debug\lab6_1.pdb
+C:\Users\Mati\Desktop\krepo\PIPO2-master\lab6_1\lab6_1\obj\Debug\lab6_1.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\krepo\PIPO2-master\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\krepo\PIPO2-master\lab6_1\lab6_1\obj\Debug\lab6_1.exe
+C:\Users\Mati\Desktop\krepo\PIPO2-master\lab6_1\lab6_1\obj\Debug\lab6_1.pdb
